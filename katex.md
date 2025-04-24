@@ -56,6 +56,7 @@ def greet(name):
 print(greet("World"))
 ```
 
+![图片](https://raw.githubusercontent.com/imovejs/static/refs/heads/main/13.png)
 
 ## 表格
 ## 开源 SSH 客户端工具列表
